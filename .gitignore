@@ -3,3 +3,9 @@
 
 # Student work and grading reports stay local as well.
 /StudentSubmissions/
+
+# Skills
+/ShareableSkills/
+
+# Local Python environment for notebook review.
+/.venv/
